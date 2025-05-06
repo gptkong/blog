@@ -125,3 +125,6 @@ theme_config:
     url: /images/logo.png
     gravatar: false
     grayout: false
+  cloudflare_analytics:
+    enabled: true
+    id: 954407323f274a93a6b5c1818921a293
