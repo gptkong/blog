@@ -102,3 +102,26 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+theme_config:
+  colorscheme: light
+  social_links:
+    -
+      icon: github
+      link: https://github.com/gptkong
+  projects_url: https://github.com/gptkong/gptkong.github.io
+  nav:
+    home: /
+    about: /about/
+    articles: /archives/
+    projects: https://github.com/gptkong
+  copyright:
+    start_year: 2025
+    end_year:
+  logo:
+    enabled: true
+    width: 50
+    height: 50
+    url: /images/logo.png
+    gravatar: false
+    grayout: false
